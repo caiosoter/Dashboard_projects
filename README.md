@@ -22,5 +22,6 @@ This is a repository that demonstrates my skills in Data Visualization and Busin
    - [E-Commerce dashboard](https://app.powerbi.com/view?r=eyJrIjoiODMxZWVhYjAtZmZkYi00MjliLWJhZmItZTlmMjg1YTk5M2IzIiwidCI6IjQwZDc5YzUxLWFkYzAtNDliNC04YWRiLTM1NjE2YzUzMTc2YiJ9)
 
 ### 4. Space X Falcon 9 Launches:
-   
+      This dashboard provides information about Falcon 9 launches, including details about the payload, landing outcome, number of flight, and launch site. The data was collected from the SpaceX API, cleaned using Python, and imported into Power BI.
+      
    - [Space X Launches dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmM1NjllYzItNTU5Zi00MzMyLTgyMDAtYjU4MDNlMzdhMTA3IiwidCI6IjQwZDc5YzUxLWFkYzAtNDliNC04YWRiLTM1NjE2YzUzMTc2YiJ9&pageName=ReportSection6a5b9e380e716146f9ca)
