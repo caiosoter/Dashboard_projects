@@ -15,3 +15,7 @@ This is a repository that demonstrates my skills in Data Visualization and Busin
    This dashboard was created in order to show several information about the sale of books in various parts of Brazil. Some information such as time series of sales over the weeks, total inactive subscriptions, percentage of inactive subscriptions and the sales target are arranged on the first page of the dashboard, while other information related to the customer and geography are on the other pages of the dashboard.
 
    - [Book club dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDc0MmJlZGYtNjIyYy00YmQxLWJjNWQtYWYyNjBkZjJjNWI1IiwidCI6IjQwZDc5YzUxLWFkYzAtNDliNC04YWRiLTM1NjE2YzUzMTc2YiJ9)
+
+### 3. E-Commerce:
+
+   - [E-Commerce dashboard](https://app.powerbi.com/view?r=eyJrIjoiODMxZWVhYjAtZmZkYi00MjliLWJhZmItZTlmMjg1YTk5M2IzIiwidCI6IjQwZDc5YzUxLWFkYzAtNDliNC04YWRiLTM1NjE2YzUzMTc2YiJ9)
