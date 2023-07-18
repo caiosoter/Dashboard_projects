@@ -1,3 +1,5 @@
+![](https://c.pxhere.com/photos/64/d3/adults_business_coffee_colleagues_communication_computer_conference_connection-1563443.jpg!d)
+
 # Dashboard projects
 
 This is a repository that demonstrates my skills in Data Visualization and Business Intelligence. My projects will be created using Power BI, and I will provide a link to direct you to the dashboard on the internet.
