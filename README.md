@@ -17,5 +17,6 @@ This is a repository that demonstrates my skills in Data Visualization and Busin
    - [Book club dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDc0MmJlZGYtNjIyYy00YmQxLWJjNWQtYWYyNjBkZjJjNWI1IiwidCI6IjQwZDc5YzUxLWFkYzAtNDliNC04YWRiLTM1NjE2YzUzMTc2YiJ9)
 
 ### 3. E-Commerce:
-
+   This dashboard was created based on the sales data from Olist, an e-commerce platform that connects companies to a marketplace. Olist facilitates sales, enhances customer proximity, and offers opportunities for companies to expand their product offerings.
+   
    - [E-Commerce dashboard](https://app.powerbi.com/view?r=eyJrIjoiODMxZWVhYjAtZmZkYi00MjliLWJhZmItZTlmMjg1YTk5M2IzIiwidCI6IjQwZDc5YzUxLWFkYzAtNDliNC04YWRiLTM1NjE2YzUzMTc2YiJ9)
