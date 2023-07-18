@@ -20,3 +20,7 @@ This is a repository that demonstrates my skills in Data Visualization and Busin
    This dashboard was created based on the sales data from Olist, an e-commerce platform that connects companies to a marketplace. Olist facilitates sales, enhances customer proximity, and offers opportunities for companies to expand their product offerings.
    
    - [E-Commerce dashboard](https://app.powerbi.com/view?r=eyJrIjoiODMxZWVhYjAtZmZkYi00MjliLWJhZmItZTlmMjg1YTk5M2IzIiwidCI6IjQwZDc5YzUxLWFkYzAtNDliNC04YWRiLTM1NjE2YzUzMTc2YiJ9)
+
+### 4. Space X Falcon 9 Launches:
+   
+   - [Space X Launches dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmM1NjllYzItNTU5Zi00MzMyLTgyMDAtYjU4MDNlMzdhMTA3IiwidCI6IjQwZDc5YzUxLWFkYzAtNDliNC04YWRiLTM1NjE2YzUzMTc2YiJ9&pageName=ReportSection6a5b9e380e716146f9ca)
