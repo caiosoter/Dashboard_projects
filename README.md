@@ -28,4 +28,6 @@ This is a repository that demonstrates my skills in Data Visualization and Busin
 
 ### 5. Book Sales dashboard:
    This project aims to be a dashboard for a book store that sells e-books and physical books. the dashboard shows some insights about top sold products, time series of books sold, data about the vendors and number of books sold, and more.
+
+   - [Book Sales dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTRkZDc2NzAtZDQ2Yi00ZGQyLTlmNDEtZjY4NTM5YmJlMDc3IiwidCI6IjQwZDc5YzUxLWFkYzAtNDliNC04YWRiLTM1NjE2YzUzMTc2YiJ9)
    
