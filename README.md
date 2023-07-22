@@ -35,4 +35,10 @@ This is a repository that demonstrates my skills in Data Visualization and Busin
    
    - [Book Sales data](https://drive.google.com/drive/folders/1ZLlMao-m-EOjMXd6pI7Aa5X9CK8ncEus?usp=drive_link)
    - [Book Sales dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTRkZDc2NzAtZDQ2Yi00ZGQyLTlmNDEtZjY4NTM5YmJlMDc3IiwidCI6IjQwZDc5YzUxLWFkYzAtNDliNC04YWRiLTM1NjE2YzUzMTc2YiJ9)
+
+### 6. Techsafe project:
+   This projects aims to build a dashboard for a fictitious company named Techsafe. This company provides solutions in cyber security and it would like to understand a little bit more about its own metrics and performance using their data, so it can make better decisions.
+
+   - [Techsafe project data](https://drive.google.com/drive/folders/1pCIGinnmRrk5avWhwpZZJQNlLFyGo-cm?usp=drive_link)
+   - []()
    
