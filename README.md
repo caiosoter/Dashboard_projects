@@ -40,5 +40,5 @@ This is a repository that demonstrates my skills in Data Visualization and Busin
    This projects aims to build a dashboard for a fictitious company named Techsafe. This company provides solutions in cyber security and it would like to understand a little bit more about its own metrics and performance using their data, so it can make better decisions.
 
    - [Techsafe project data](https://drive.google.com/drive/folders/1pCIGinnmRrk5avWhwpZZJQNlLFyGo-cm?usp=drive_link)
-   - []()
+   - [Techsafe dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTBkZmFhZWYtNGI4Yi00ZTRhLTg1MjItZGE2MDc3YmJlNjNkIiwidCI6IjQwZDc5YzUxLWFkYzAtNDliNC04YWRiLTM1NjE2YzUzMTc2YiJ9&pageName=ReportSection7f1e743761f682012ab6)
    
